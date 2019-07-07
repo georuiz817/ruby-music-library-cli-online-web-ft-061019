@@ -4,6 +4,8 @@ Bundler.require
 module Concerns
 end
 
+module Concerns::Findable
+end
 
 
 
